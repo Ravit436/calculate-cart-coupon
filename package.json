@@ -1,0 +1,25 @@
+{
+  "name": "calculate-cart-coupon",
+  "version": "1.0.0",
+  "description": "calculate cart on the basis of coupon applied",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravit436/calculate-cart-coupon.git"
+  },
+  "author": "ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravit436/calculate-cart-coupon/issues"
+  },
+  "homepage": "https://github.com/Ravit436/calculate-cart-coupon#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "moment": "^2.21.0",
+    "redis": "^2.8.0",
+    "request": "^2.85.0"
+  }
+}

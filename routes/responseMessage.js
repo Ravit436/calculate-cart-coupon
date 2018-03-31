@@ -1,0 +1,12 @@
+exports.NO_ITEMS                    = "No items in cart";
+exports.NO_COUPON                   = "No coupon applied";
+exports.NO_OUTLET                   = "No Such Outlet";
+exports.COUPON_APPLIED              = "Coupon applied";
+exports.ERROR_MESSAGE               = "Some unknown error occurred";
+exports.COUPON_FETCH_FAILED         = "Unable to fetch coupons list";
+exports.NO_COUPON_EXISTS            = "No such coupon exists";
+exports.COUPON_EXPIRED              = "The coupon has expired";
+exports.COUPON_DISABLED             = "Coupon is no longer active";
+exports.COUPON_OUTLET_ISSUE         = "Coupon cannot be applied on this outlet";
+exports.CART_DELIVERY_AMOUNT_ISSUE  = "Cart value is less than minimum delivery amount";
+exports.BOGO_CART_LENGTH            = "Minimum cart length should be more than 1";
